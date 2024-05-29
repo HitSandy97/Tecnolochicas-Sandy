@@ -1,4 +1,4 @@
-# Tecnolochicas-Sandy
+# Tecnolochicas-Sandy Clon de Pinterest
 Este proyecto es un clon de la interfaz gráfica de pinterest, creado puramente con CSS y HTML
 ### Carácterísticas 
 * **Diseño Responsive** Adaptable a diferentes tamaños de la pantalla para una experiencia de usuario óptima en dispositivos móviles
